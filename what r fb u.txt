@@ -1,0 +1,49 @@
+Student Portal UI (Exact Match)
+
+Here’s the HTML, CSS, and JavaScript to perfectly match the Student Portal design in your screenshot.
+
+
+---
+
+1️⃣ HTML (index.html)
+
+
+
+---
+
+2️⃣ CSS (styles.css)
+
+
+
+---
+
+3️⃣ JavaScript (script.js)
+
+
+
+
+---
+
+💡 How to Use
+
+1. Save the HTML as index.html
+
+
+2. Save the CSS as styles.css
+
+
+3. Save the JavaScript as script.js
+
+
+4. Place a logo.png file in the same folder
+
+
+5. Open index.html in a browser
+
+
+
+
+---
+
+✅ Now your portal will look 100% exactly like the one in the screenshot! Let me know if you need modifications!
+
